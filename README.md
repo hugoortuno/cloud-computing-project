@@ -35,8 +35,8 @@ cloud-computing.project/
 
 1. **Clona el repositorio:**
    ```bash
-   git clone [se quitó una URL no válida]
-   ```
+   git clone [https://github.com/hugoortuno/cloud-computing.project.git](https://github.com/hugoortuno/cloud-computing.project.git)
+
 
 2. **Crea un entorno virtual:**
    ```bash
