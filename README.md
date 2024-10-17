@@ -4,7 +4,7 @@ Este proyecto analiza cómo Stripe utiliza el machine learning en la nube para d
 
 ## Enlaces
 
-* **Repositorio de GitHub:** [enlace al repositorio]
+* **Repositorio de GitHub:** https://github.com/hugoortuno/cloud-computing.project
 * **Presentación en Canva:** [enlace a la presentación]
 
 ## Descripción
@@ -23,4 +23,7 @@ El proyecto incluye:
 
 ## Autor
 
-[Hugo Ortuño]
+Hugo Ortuño Suárez
+
+* **LinkedIn:** https://www.linkedin.com/in/hugo-ortuño-suarez/
+* **GitHub:** https://github.com/hugoortuno
